@@ -16,3 +16,9 @@ A physics-based ball simulation built with Python and Pygame. This project featu
    ```bash
    git clone [https://github.com/yashwardhan-rao/Bouncy_Ball.git](https://github.com/yashwardhan-rao/Bouncy_Ball.git)
    cd Bouncy_Ball
+2. **Install Dependencies:**
+   ```bash
+   pip install pygame
+3. **Run the Simulation:**
+   ```bash
+   python bouncy.py
