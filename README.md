@@ -1,16 +1,16 @@
-# Bouncy Ball 🏀
+# Bouncy Ball 
 
 A physics-based ball simulation built with Python and Pygame. This project features elastic collisions, wall bouncing, and an interactive slingshot mechanic to launch balls into the arena.
 
 ![Gameplay Demo](link-to-your-gif-here.gif)
 
-## 🌟 Features
+##  Features
 * **Slingshot Mechanic:** Click and drag to aim and launch balls with variable power.
 * **Elastic Collisions:** Balls bounce off walls and each other realistically.
 * **Visual Feedback:** Dashed lines and arrows to help with aiming.
 * **60 FPS Gameplay:** Smooth rendering using Pygame's clock management.
 
-## 🛠️ Installation
+##  Installation
 
 1. **Clone the repository:**
    ```bash
